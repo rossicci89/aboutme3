@@ -1,0 +1,84 @@
+.h1 h1{
+font-family: 'Titillium Web', sans-serif;
+float: left;
+}
+
+.unc{
+  height: 300px;
+  width: 300px;
+  background-color: lightcoral;
+  display: inline;
+}
+
+.background{
+  background-color: lightcoral;
+  font color: white;
+}
+
+.about{
+  font-family: 'Titillium Web', sans-serif;
+  text-indent: inherit;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+
+li {
+  display: inline;
+  font-size: 25px;
+}
+
+li a{
+  display: inline;
+  width: 100px;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+.active{
+    background-color: #4CAF50;
+    color: white;
+}
+
+.socialicons{
+  clear:both;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.about{
+  padding: white;
+}
+
+.me {
+  width: 200px;
+  height: 200px;
+  clear: both;
+}
